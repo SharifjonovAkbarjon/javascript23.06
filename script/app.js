@@ -11,7 +11,7 @@
 //         }
 //     }
 //     console.log( mrMs({name: "Savannah Bond", gender: "female"}))
-//     console.log( mrMs({name: "Eva Elfie", gender: "female"}))
+//     console.log( mrMs({name: "Jasmine Jae", gender: "female"}))
 //     console.log( mrMs({name: "Jonny Sins", gender: "male"}))
 // }
 
@@ -71,6 +71,30 @@
     // }
 
 
+
+
     // masala 6
 
-    
+    // {
+    // let greeting = () =>  "Hello world";
+
+    // console.log( greeting() );
+    // }
+
+
+    // masala 7
+
+    // {
+    // function brightness(i){
+    //     if(i === "dark"){
+    //         return "light";
+    //     }else if(i === "light"){
+    //         return "dark";
+    //     } else{
+    //         return "";
+    //     }
+    // }
+
+    // console.log(brightness("dark")); 
+    // console.log(brightness("light"));  
+    // }
