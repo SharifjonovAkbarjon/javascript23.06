@@ -53,6 +53,24 @@
 
     // masala 4
 
-{
+
+
+
+    // masala 5
+
+    // {
+    //     function telNumber(tel){
+    //         if(tel == "+"){
+    //             console.log(tel);
+    //         }else{
+    //             console.log(tel.padStart(13, "+"));
+    //         }
+    //     }
+    //     console.log(telNumber("+998972543354"))
+    //     console.log(telNumber("998972543354"))
+    // }
+
+
+    // masala 6
+
     
-}
